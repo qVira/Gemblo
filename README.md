@@ -6,7 +6,7 @@ A first try (tbu) of simulating the Gemblo board game in Java
 1. 
 ****************************************************************************************
 (blended out)
-Virzhiniia Frejlak, 14.07.2024
+Last edited: 14.07.2024
 
 
 
